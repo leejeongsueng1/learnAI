@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>https://leejeongsueng1.github.io/computer_vision/python/jupyter/2021/11/14/_11_15_%ED%8C%8C%EB%85%B8%EB%9D%BC%EB%A7%88_%EC%9D%B4%EB%AF%B8%EC%A7%80.html</loc>
+        
+        <lastmod>2021-11-14T00:00:00-06:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://leejeongsueng1.github.io/computer_vision/python/jupyter/2021/11/14/_11_15_%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%95%84%ED%84%B0%EB%A7%81.html</loc>
+        
+        <lastmod>2021-11-14T00:00:00-06:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+</urlset>

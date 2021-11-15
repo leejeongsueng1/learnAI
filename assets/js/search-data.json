@@ -27,7 +27,10 @@
   
 
   
-      ,"page1": {
+  
+
+  
+      ,"page2": {
           "title": "About Me",
           "content": "인공지능, 컴퓨터비전을 공부하는 곳 배운 것을 정리하고 내 것으로 만들어 나가는 공간입니다. . . 주인장 소개 . OO대학교 컴퓨터공학부 | 밖에 없네유… | .",
           "url": "https://leejeongsueng1.github.io/learnAI/about/",
@@ -61,7 +64,7 @@
   
 
   
-      ,"page11": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://leejeongsueng1.github.io/learnAI/robots.txt",
