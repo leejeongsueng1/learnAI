@@ -4,8 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+> 인공지능, 컴퓨터비전을 공부하는 곳
+배운 것을 정리하고 내 것으로 만들어 나가는 공간입니다.
 
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+![]({{site.baseurl}}/images/증명사진.jpg "주인장")
+> 주인장 소개
+* OO대학교 컴퓨터공학부
+* 밖에 없네유...
